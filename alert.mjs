@@ -1,13 +1,13 @@
 /* Copyright (C) 2023-2024 anonymous
 
-This file is part of PSFree.
+This file is part of 2025.
 
-PSFree is free software: you can redistribute it and/or modify
+2025 is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as
 published by the Free Software Foundation, either version 3 of the
 License, or (at your option) any later version.
 
-PSFree is distributed in the hope that it will be useful,
+2025 is distributed in the hope that it will be useful,
 but WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 GNU Affero General Public License for more details.
